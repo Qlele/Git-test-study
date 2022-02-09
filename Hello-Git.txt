@@ -13,5 +13,6 @@ hello qilele hello git!
 hello qilele hello git!
 hello qilele hello git!
 hello qilele hello git!
+<<<<<<< HEAD
 hello qilele hello git!master-Test
-hello qilele hello git!
+hello qilele hello git!hotfix-Test
